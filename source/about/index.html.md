@@ -69,7 +69,7 @@ James Smith, Project Lead
 
 ## Support
 
-DH Data is supported in part by the [Maryland Institute for Technology in the
+Initial DH Data development was supported in part by the [Maryland Institute for Technology in the
 Humanities](http://mith.umd.edu/) through generous research release time.
 
 ## License
